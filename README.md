@@ -18,3 +18,6 @@ Cadastro de Usuários: Permite que novos usuários se cadastrem fornecendo infor
 Login de Usuários: Usuários cadastrados podem fazer login com seu email e senha.
 Responsividade: O sistema é compatível com dispositivos de diferentes tamanhos, garantindo uma experiência consistente em desktops, tablets e smartphones.
 
+## Fontes 
+(https://pt.semrush.com/blog/ahref-link/  )  
+Chat GPT
